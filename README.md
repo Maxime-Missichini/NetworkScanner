@@ -16,3 +16,6 @@ Network Scanner script using Python
     python3 basicScan.py
 ### scapyScan
     sudo python3 scapyScan.py
+    
+# Status
+Dev paused
